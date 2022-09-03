@@ -153,7 +153,6 @@ header {
 /* =====HERO===== */
 .hero {
   max-width: 1600px;
-  height: 600px;
   background-color: var(--primary-background-color);
   padding-top: 200px;
   padding-bottom: 200px;
@@ -310,7 +309,7 @@ header {
   line-height: 1.19;
   text-align: center;
   color: var(--primary-text-color-theme-light);
-  padding-bottom: 30px;
+  margin-bottom: 30px;
 }
 .social-list {
   display: flex;
