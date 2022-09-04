@@ -309,7 +309,7 @@ header {
   line-height: 1.19;
   text-align: center;
   color: var(--primary-text-color-theme-light);
-  margin-bottom: 30px;
+  margin-bottom: 16px;
 }
 .social-list {
   display: flex;
